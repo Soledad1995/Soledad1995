@@ -1,1 +1,9 @@
-
+.ordenador{
+    background-color: white;
+    padding: 5%;
+}
+.contacto{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
